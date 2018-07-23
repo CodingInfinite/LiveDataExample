@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">LiveDataExample</string>
+    <string name="live_data_example">Live Data Example</string>
+    <string name="live_data_map_example">LiveData Map Example</string>
+    <string name="live_data_switch_map_example">LiveData SwicthMap Example</string>
+    <string name="username">Username</string>
+    <string name="add_user">Add User</string>
+    <string name="search_user">Search User</string>
+</resources>
